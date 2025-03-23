@@ -22,7 +22,7 @@ Esta es una prueba técnica desarrollada con Vue 3, TypeScript y Tailwind CSS. L
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/covid-colombia-vue3.git
+git clone  https://github.com/Fredimerck/covid-colombia-vue3.git
 cd covid-colombia-vue3
 ```
 

@@ -1,16 +1,14 @@
 {
   "name": "covid-colombia-vue3",
   "version": "1.0.0",
-  "description": "Aplicación web construida con Vue 3, Pinia y Google Maps para mostrar información del COVID-19 por departamento.",
-  "main": "index.js",
+  "description": "Aplicación Vue 3 con Google Maps para visualizar datos COVID-19 por departamento en Colombia.",
+  "author": "Fredy",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "preview": "vite preview"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "apexcharts": "^4.5.0",
     "axios": "^1.8.4",
